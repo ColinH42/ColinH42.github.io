@@ -5,7 +5,7 @@ paginate: 100 # it will paginate after this number
 language: 'en-uk'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper2/
+baseurl: "/"
 
 # Website info
 title: ColinH42
@@ -14,7 +14,7 @@ cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://colinh42.github.io/
+production_url: https://colinh42.github.io
 CNAME: #add cname for website to be created
 
 # Social info
@@ -30,7 +30,7 @@ disqus: False
 disqus_shortname: jekyller # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics: # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
