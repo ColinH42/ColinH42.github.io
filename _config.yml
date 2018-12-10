@@ -10,7 +10,7 @@ baseurl: "/"
 # Website info
 title: ColinH42
 description: My jekyll website
-cover: assets/images/blog-cover.jpg
+cover: assets/images/PurpleTriangles.jpeg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
