@@ -29,7 +29,7 @@ production stylesheet in assets/built/screen.css
 @import "global.css";
 
 body {
-    background: #800080;
+    background: #111111;
 }
 
 .img {
