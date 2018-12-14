@@ -1,3 +1,6 @@
+## Public Link
+https://maynard-schools.github.io/jekyll-setup-ColinH42/
+
 ## Jasper2
 
 [![Build Status](https://travis-ci.org/jekyller/jasper2.svg?branch=master)](https://travis-ci.org/jekyller/jasper2)
