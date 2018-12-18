@@ -572,7 +572,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
 }
 
 .post-full-meta-date {
-    color: var(--blue);
+    color: #fff;
 }
 
 .post-full-title {
