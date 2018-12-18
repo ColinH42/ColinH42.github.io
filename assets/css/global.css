@@ -141,7 +141,7 @@ html {
     box-sizing: inherit;
 }
 a {
-    background-color: #3c0b54;
+    background-color: #2d0035;
 }
 a:active,
 a:hover {
@@ -289,7 +289,7 @@ body {
     font-style: normal;
     letter-spacing: 0;
     text-rendering: optimizeLegibility;
-    background: #563069;
+    background: #27003a;
 
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
