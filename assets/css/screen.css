@@ -418,7 +418,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     position: relative;
     display: block;
     padding: 25px 25px 0;
-    color: #fff;
+    color: #27003a;
 }
 
 .post-card-content-link:hover {
